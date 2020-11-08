@@ -1,0 +1,39 @@
+:root {
+    --main-bg-color: white;
+    --main-font-color: black;
+    --white-color: white;
+    --twitter-blue: rgb(29, 161, 242);
+  
+    --twitter-extra-light-gray: #F5F8FA;
+    --twitter-light-gray: #E1E8ED;
+    --twitter-dark-gray: #657786;
+  
+    --twitter-light-hover-gray: rgb(236, 240, 243);
+  
+    --dark-bg-color: rgb(21, 32, 43);
+    --dark-font-color: white;
+}
+
+body {
+    padding: 1rem;
+}
+/* 
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 100vh;
+}
+
+.column:first-of-type {
+    background: var(--twitter-blue);
+}
+.column:last-of-type {
+    background: var(--main-bg-color);
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+} */
